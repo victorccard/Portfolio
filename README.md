@@ -2,8 +2,8 @@
 <center>
 <table>
     <tr>
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorccard&hide=html&layout=compact&theme=buefy" />
-<td><img width="455px" align="right" src="https://github-readme-stats.vercel.app/api?username=victorccard&theme=buefy"/> 
+<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorccard&hide=html&layout=compact&theme=buefy" />
+<td><img width="355px" align="right" src="https://github-readme-stats.vercel.app/api?username=victorccard&theme=buefy"/> 
       </tr>   
 </table>
 </center>  
