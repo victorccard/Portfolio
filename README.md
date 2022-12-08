@@ -18,7 +18,7 @@ My Name is Victor,
 - I´m very curious, always looking for challenges.
 
 - Loved by tech💾, series📺 and sports⚽.
-- Married to my beautiful wife marina💑.
+- Married to my beautiful wife Marina💑.
 <hr>
 Where Find Me? 🔍
 
