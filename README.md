@@ -13,7 +13,7 @@ Hello, Welcome!!!
 <hr>
 My Name is Victor,
 
-- I´m a student of system analysis and development although my total focus is in data science where i´m found my passion💖.
+- I´m a data science very curious.
 
 - I´m very curious, always looking for challenges.
 
